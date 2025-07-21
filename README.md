@@ -27,6 +27,10 @@ Files
 - `HR_Attrition_Insights.xlsx` – Pivot tables and visual analysis
 - `HR_Attrition_Summary.txt` – Short summary for CV or LinkedIn
 
+
+<img width="793" height="604" alt="Screenshot 2025-07-20 221510" src="https://github.com/user-attachments/assets/c420ffb5-8ebf-4218-a6b3-d2c826a880c3" />
+
+
 🔗 Status
 ✅ Completed  
 🗂️ Excel Only Project (No Power BI)
