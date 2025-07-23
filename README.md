@@ -1,27 +1,29 @@
-HR Attrition Analysis (Excel Project)
+Sales Dashboard – Excel Analytics
 
-Project Overview
-Explores employee attrition patterns within a fictional company. The dataset contains details such as age, department, education, job role, salary, and attrition status. Using Excel, I cleaned and analyzed the data to uncover insights into the factors contributing to employee turnover.
+Objective:
+Analyze and visualize sales data to uncover insights across product categories, customer segments, and regions.
 
-Tools Used
-Microsoft Excel (Data Cleaning, Pivot Tables, Chart)
+Key Metrics Tracked:
+Total Sales: $259,771.81
+Total Profit: $52,365.58
+Average Order Value: $260,271
+Total Quantity Sold: 2,696
 
-Key Objectives
-- Identify which departments have the highest attrition rates
-- Discover attrition patterns based on age group, gender, and job role
-- Provide insights that can help HR reduce attrition and improve retention
+Dashboard Features:
+Slicers for Category, Segment, and Region filtering
+Monthly Trend Line Chart showing Sales vs Profit
+Top 5 Products by Sales with dynamic bar chart
+Sales Breakdown by Region & Category using bar and pie charts
 
-Summary of Work
-- Cleaned and prepared raw HR data using Excel functions
-- Built pivot tables to summarize attrition by various categories
-- Delivered actionable insights to support HR strategy
+Tools Used: 
+Microsoft Excel (Pivot Tables, Charts, Slicers, Formatting)
 
-Project Highlights
-- Highest attrition found in the Sales and Research departments
-- Younger employees (20–30) showed higher turnover rates
-- Certain job roles and Age group stronger links to attrition
+Outcome:
+This dashboard helps stakeholders quickly spot top-performing products, customer behavior, 
+and sales trends by month, region, and category — enabling better decision-making.
 
-<img width="793" height="604" alt="Screenshot 2025-07-20 221510" src="https://github.com/user-attachments/assets/c420ffb5-8ebf-4218-a6b3-d2c826a880c3" />
+![sales](https://github.com/user-attachments/assets/b0fcd337-d44d-4381-8f2f-9499c1f5628d)
+
 
 🔗 Status
 ✅ Completed  
